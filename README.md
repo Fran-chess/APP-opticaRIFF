@@ -1,4 +1,4 @@
-# URL repo: URL REPO 
+# URL repo: https://github.com/Fran-chess/APP-opticaRIFF.git
 
 
 # APP-opticaRIFF
